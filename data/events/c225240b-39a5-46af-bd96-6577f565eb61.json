@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "8fd0d6b6-1426-4d25-b10c-764e444262a2": {
+      "label": "AV File 2",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-27T21:22:28.100Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 2",
+  "updated_at": "2025-10-27T21:22:28.100Z",
+  "updated_by": "tanyaclement"
+}
