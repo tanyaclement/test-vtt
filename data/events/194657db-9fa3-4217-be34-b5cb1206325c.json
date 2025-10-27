@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "244fd658-c5ab-416e-9c9c-d7f27d95862a": {
+      "label": "AV File 18",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-27T21:19:26.429Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 18",
+  "updated_at": "2025-10-27T21:19:26.429Z",
+  "updated_by": "tanyaclement"
+}

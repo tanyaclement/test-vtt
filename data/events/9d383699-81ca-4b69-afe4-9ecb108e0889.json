@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "00799dda-6e4e-4165-b60d-2dbef3fcad6c": {
+      "label": "AV File 36",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-27T21:19:26.430Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 36",
+  "updated_at": "2025-10-27T21:19:26.430Z",
+  "updated_by": "tanyaclement"
+}
