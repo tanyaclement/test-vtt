@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "541290de-8724-4fb9-9ded-5fde340ad43e": {
+      "label": "AV File 1",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-27T21:43:44.422Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2025-10-27T21:43:44.423Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": "http://creativecommons.org/licenses/by/3.0/"
+}
